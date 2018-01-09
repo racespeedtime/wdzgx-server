@@ -1,0 +1,10 @@
+_x = 1529.599975
+_y = -1691.199951
+_z = 10.446779
+_rot = 236.307800
+_range = 20
+_limit = 120
+_fine = 500
+_usemph = 0
+_activelabel = true
+_labeltxt = KIVA

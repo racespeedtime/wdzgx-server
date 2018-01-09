@@ -1,0 +1,2 @@
+PustPlayerNumber:
+0
